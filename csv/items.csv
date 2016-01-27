@@ -1,0 +1,20 @@
+id,category,name,price,manufacturer_id
+200,food,salmon,40,305
+201,toy,ball,5.5,301
+202,medicine,prozac,100,304
+203,food,tuna,20.99,301
+204,food,human food,21.01,302
+205,food,candy,15.22,302
+206,toy,rope,3.5,305
+207,toy,twist tie,0.02,305
+208,toy,expensive vase,299.99,301
+209,medicine,catnip,4,305
+210,medicine,xtreme nip,20,302
+211,food,chocolate,2.43,303
+212,food,grass,1.33,301
+213,toy,car tire,40,305
+214,medicine,wine,23,305
+215,toy,shiny string,0.99,303
+216,toy,frisbee,5,302
+217,toy,post-it notes,2.5,304
+218,food,steak,14.67,302

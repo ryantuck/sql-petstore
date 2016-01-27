@@ -1,0 +1,10 @@
+{
+    "petstore": {
+        "user": "ryan",
+        "passwd": "ryanryan",
+        "host": "playground.ct8hgxfp9kz9.us-west-2.rds.amazonaws.com",
+        "db": "petstore",
+        "port": 5432,
+        "flavor": "postgres"
+    }
+}

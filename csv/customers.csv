@@ -1,0 +1,23 @@
+id,first,last,city,is_member
+0,richard,dawkins,oxford,TRUE
+1,james,joyce,minneapolis,TRUE
+2,jean-paul,sartre,paris,FALSE
+3,ayn,rand,new york,TRUE
+4,oscar,wilde,dublin,FALSE
+5,steven,spielberg,los angeles,TRUE
+6,ben,roethlisberger,pittsburgh,FALSE
+7,tom,brady,boston,FALSE
+8,aaron,rogers,green bay,TRUE
+9,jj,abrams,los angeles,FALSE
+10,sam,harris,san francisco,TRUE
+11,glenn,greenwald,rio de janeiro,FALSE
+12,marshawn,lynch,seattle,FALSE
+13,beyonce,knowles,brooklyn,TRUE
+14,enrico,fermi,princeton,FALSE
+15,albert,einstein,princeton,TRUE
+16,wasily,kandinsky,moscow,FALSE
+17,vladimir,putin,moscow,FALSE
+18,angela,merkel,berlin,TRUE
+19,gustav,klimt,vienna,TRUE
+20,barack,obama,washington,FALSE
+21,michelle,obama,washington,TRUE
